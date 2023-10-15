@@ -2,7 +2,7 @@ package services
 
 import (
 	"errors"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/entities"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/entities"
 )
 
 var (

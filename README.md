@@ -9,10 +9,10 @@
   <a href="https://golang.org/">
     <img src="https://img.shields.io/badge/Golang-1.18+-blue.svg?style=flat-square">
   </a>
-    <a href="https://github.com/youtrolledhahaha/XDTROLLEDAxzxx/releases">
+    <a href="https://github.com/youtrolledhahaha/youtrolledhahahaXxx/releases">
     <img src="https://img.shields.io/badge/Release-v5 Beta-red.svg?style=flat-square">
   </a>
-  <a href="https://github.com/youtrolledhahaha/XDTROLLEDAxzxx/blob/master/LICENSE">
+  <a href="https://github.com/youtrolledhahaha/youtrolledhahahaXxx/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square">
   </a>
   <a href="https://hub.docker.com/r/tiagorlampert/chaos">
@@ -26,9 +26,9 @@
 <p align="center">
   CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
   <br>
-  <a href="https://github.com/youtrolledhahaha/XDTROLLEDAxzxx/issues/new">Report bug</a>
+  <a href="https://github.com/youtrolledhahaha/youtrolledhahahaXxx/issues/new">Report bug</a>
   ·
-  <a href="https://github.com/youtrolledhahaha/XDTROLLEDAxzxx/issues/new">Request feature</a>
+  <a href="https://github.com/youtrolledhahaha/youtrolledhahahaXxx/issues/new">Request feature</a>
   ·
   <a href="#quick-start">Quick start</a>
   ·
@@ -84,7 +84,7 @@ Some install options are available:
 $ sudo apt install golang git -y
 
 # Get this repository
-$ git clone https://github.com/youtrolledhahaha/XDTROLLEDAxzxx
+$ git clone https://github.com/youtrolledhahaha/youtrolledhahahaXxx
 
 # Go into the repository
 $ cd CHAOS/
@@ -163,7 +163,7 @@ If you enjoyed this project, give me a cup of coffee. :)
 
 ## Copyright and license
 
->The [MIT License](https://github.com/youtrolledhahaha/XDTROLLEDAxzxx/blob/master/LICENSE)
+>The [MIT License](https://github.com/youtrolledhahaha/youtrolledhahahaXxx/blob/master/LICENSE)
 >
 >Copyright (c) 2017, Tiago Rodrigo Lampert
 >

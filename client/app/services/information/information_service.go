@@ -1,9 +1,9 @@
 package information
 
 import (
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/entities"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/services"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/utils/network"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/entities"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/services"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/utils/network"
 	"os"
 	"os/user"
 	"runtime"

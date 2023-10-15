@@ -3,9 +3,9 @@ package middleware
 import (
 	"github.com/appleboy/gin-jwt/v2"
 	"github.com/gin-gonic/gin"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxentities"
-	jwtUtil "github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal/utils/jwt"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxservices/user"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxentities"
+	jwtUtil "github.com/youtrolledhahaha/youtrolledhahahaXxxinternal/utils/jwt"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxservices/user"
 	"net/http"
 	"time"
 )

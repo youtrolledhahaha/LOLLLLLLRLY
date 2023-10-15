@@ -1,7 +1,7 @@
 package device
 
 import (
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxentities"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxentities"
 	"time"
 )
 

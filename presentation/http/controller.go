@@ -3,13 +3,13 @@ package http
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/sirupsen/logrus"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal/environment"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal/middleware"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxservices/auth"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxservices/client"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxservices/device"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxservices/url"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxservices/user"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxinternal/environment"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxinternal/middleware"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxservices/auth"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxservices/client"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxservices/device"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxservices/url"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxservices/user"
 )
 
 type httpController struct {

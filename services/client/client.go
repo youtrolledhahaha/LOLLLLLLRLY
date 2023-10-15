@@ -3,7 +3,7 @@ package client
 import (
 	"context"
 	"github.com/gorilla/websocket"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal/utils/system"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxinternal/utils/system"
 )
 
 type SendCommandInput struct {

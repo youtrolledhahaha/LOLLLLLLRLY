@@ -3,7 +3,7 @@ package websocket
 import (
 	"fmt"
 	"github.com/gorilla/websocket"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/environment"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/environment"
 	"net/http"
 	"net/url"
 	"strings"

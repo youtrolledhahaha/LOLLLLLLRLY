@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/environment"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/ui"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/environment"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/ui"
 )
 
 var (

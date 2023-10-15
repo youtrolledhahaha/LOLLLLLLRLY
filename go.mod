@@ -1,4 +1,4 @@
-module github.com/youtrolledhahaha/XDTROLLEDAxzxx
+module github.com/youtrolledhahaha/youtrolledhahahaXxx
 
 go 1.18
 

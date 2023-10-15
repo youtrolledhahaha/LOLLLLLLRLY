@@ -1,6 +1,6 @@
 package auth
 
-import "github.com/youtrolledhahaha/XDTROLLEDAxzxxentities"
+import "github.com/youtrolledhahaha/youtrolledhahahaXxxentities"
 
 type Repository interface {
 	Insert(auth entities.Auth) error

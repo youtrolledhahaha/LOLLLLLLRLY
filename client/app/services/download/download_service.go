@@ -2,9 +2,9 @@ package download
 
 import (
 	"fmt"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/environment"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/gateways"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/services"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/environment"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/gateways"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxclient/app/services"
 	"io/ioutil"
 	"net/http"
 	"os"

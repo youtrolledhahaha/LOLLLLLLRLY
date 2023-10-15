@@ -3,7 +3,7 @@ package image
 import (
 	"fmt"
 	"github.com/google/uuid"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal"
+	"github.com/youtrolledhahaha/youtrolledhahahaXxxinternal"
 	"os"
 )
 
